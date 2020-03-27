@@ -52,7 +52,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] What are the three parts of the JSON Web Token?
 
-        Header, payload, signature
+        Header, payload, signature  
 
 ## Minimum Viable Product
 
